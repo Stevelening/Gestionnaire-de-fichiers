@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>../../Desktop/images/about.png.png</file>
+        <file>../../Desktop/images/copy.png.png</file>
+        <file>../../Desktop/images/cut.png.png</file>
+        <file>../../Desktop/images/exit.png.png</file>
+        <file>../../Desktop/images/new.png.png</file>
+        <file>../../Desktop/images/open.png.png</file>
+        <file>../../Desktop/images/paste.png.png</file>
+        <file>../../Desktop/images/refresh.png.png</file>
+        <file>../../Desktop/images/save.png.png</file>
+        <file>../../Desktop/images/search.png.png</file>
+        <file>images/about.png</file>
+        <file>images/copy.png</file>
+        <file>images/cut.png</file>
+        <file>images/exit.png</file>
+        <file>images/new.png</file>
+        <file>images/open.png</file>
+        <file>images/paste.png</file>
+        <file>images/refresh.png</file>
+        <file>images/save.png</file>
+        <file>images/search.png</file>
+        <file>../../Desktop/images/newDir.png</file>
+        <file>images/newDir.png</file>
+        <file>images/properties.png</file>
+        <file>images/rename.png</file>
+        <file>images/movies.png</file>
+        <file>images/delete.png</file>
+        <file>images/documents.png</file>
+        <file>images/computer.png</file>
+        <file>images/Download.png</file>
+        <file>images/settings.png</file>
+        <file>images/music.png</file>
+        <file>images/image.png</file>
+        <file>images/fileManager.png</file>
+        <file>images/copy1.png</file>
+        <file>images/paste1.png</file>
+    </qresource>
+</RCC>
